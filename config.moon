@@ -8,8 +8,8 @@ _ =
   cli_port: 7731
   screenshotmachine_api_key: "b645b8"
   admins: {
-    110626080
-    123456789
+    139946685
+    112524566
     --your id
   }
   plugs: {
